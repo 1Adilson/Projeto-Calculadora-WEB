@@ -1,0 +1,35 @@
+
+.conteiner{
+    align-items: center;
+}
+.btn{
+        background: #a2de21;
+        background-image: -webkit-linear-gradient(top, #a2de21, #2980b9);
+        background-image: -moz-linear-gradient(top, #a2de21, #2980b9);
+        background-image: -o-linear-gradient(top, #a2de21, #2980b9);
+        background-image: linear-gradient(to bottom, #a2de21, #2980b9);
+        border-radius: 60px;
+        font-family: Arial;
+        color: #ffffff;
+        font-size: 36px;
+        padding: 10px 20px 10px 20px;
+        border:none;
+}
+.btn:hover{
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+}
+
+.grupo {
+    border-width : 2px;
+    border-color: black;
+    border-radius: 10px;
+    height: 50px;
+    text-align: center;
+    font-family: 'Teko', sans-serif; 
+    width: 30%;
+}
